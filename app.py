@@ -1,3 +1,4 @@
+# KR2: Зайцев
 import os
 import socket
 
